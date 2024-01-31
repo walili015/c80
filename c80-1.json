@@ -1,0 +1,27 @@
+  {
+  "AdsController": {
+    "adNetwork": "adsoff",
+
+    "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobReward": "ca-app-pub-3940256099942544/5224354917",
+    "admobOpenads": "ca-app-pub-3940256099942544/5575463023",
+
+    "unityGameId": "5532911",
+    "testMode": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=xxxxxxx",
+    
+    "game2": false,
+    "modeads": false,
+    "IMG1_URL": "",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
+    "IMG2_URL": "",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=xxxxxxx",
+    "ratingActive": true
+  }
+}
